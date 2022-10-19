@@ -10,7 +10,7 @@ import NotFound from './components/NotFound';
 
 // Styles
 import { GlobalStyle } from "./GlobalStyle";
-import { findRenderedComponentWithType } from 'react-dom/test-utils';
+
 
 
 
